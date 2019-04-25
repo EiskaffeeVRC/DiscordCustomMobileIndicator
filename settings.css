@@ -1,3 +1,4 @@
+//META{"name":"NotAnotherAnimeThemeTCSL","description":"This is a theme that changes the mobile indicator to a custom image hopefully i didnt screw this up completely adsjndaskjdnsakjldas","author":"!!Eiskaffee#5337","version":"1"}*//{}
 @import url('https://rawcdn.githack.com/MerileStudiosOfficial/DiscordCustomMobileIndicator/aaa6defdce37275c1d9e27518b586597d4163163/main.css')
 :root {	
 	--mobile-img: url('https://i.imgur.com/Q8eotDt.png')
