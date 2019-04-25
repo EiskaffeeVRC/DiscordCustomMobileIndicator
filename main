@@ -1,0 +1,59 @@
+.mobileIndicator-U-7hTl path {
+    fill: transparent;
+    d: nill;
+	background: var(--mobile-img);
+}
+
+.mobileIndicator-U-7hTl{
+	background: var(--mobile-img);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.mobileIndicator-3gyhuE path {
+    fill: transparent;
+    d: nill;
+	background: var(--mobile-img);
+}
+
+.mobileIndicator-3gyhuE{
+	background: var(--mobile-img);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.mobileIndicator-329Gd6 path {
+    fill: transparent;
+    d: nill;
+	background: var(--mobile-img);
+}
+
+.mobileIndicator-329Gd6{
+	background: var(--mobile-img);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.mobileIndicator-32N6Qx path {
+    fill: transparent;
+    d: nill;
+	background:var(--mobile-img);
+}
+
+.mobileIndicator-32N6Qx{
+	background: var(--mobile-img);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+ 
+.mobileIndicator-29f8Xh path {
+    fill: transparent;
+    d: nill;
+	background: var(--mobile-img);
+}
+
+.mobileIndicator-29f8Xh{
+	background: var(--mobile-img);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
