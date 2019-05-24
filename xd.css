@@ -2,9 +2,6 @@
 @import url('https://anti-betterdocs.github.io/BlockBetterDocs/BetterDocsBlockerVars.css');
 
 .typeWindows-1za-n7 + .platform-web .app {
-  background-size: cover !important;
-  background-repeat: no-repeat !important;
-  background-image: var(--BetterDocsBlockerWarn) !important;
   cursor: not-allowed !important;
   position: absolute !important;
   display: block !important;
@@ -25,7 +22,6 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
 	font-size: 25px !important;
 	line-height: 30px !important;
 	text-align: center !important;
-	background-color: var(--BetterDocsBlockerBlack1) !important;
 	box-shadow: inset 0 0 25px 5px var(--BetterDocsBlockerRed) !important;
 	border: 4px solid #f04747 !important;
 	padding: 0 !important;
@@ -67,20 +63,12 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
   pointer-events: none;
 }
 
-.embedLink-1G1K1D[href*="://betterdocs." i]::selection,
-.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i]::selection,
-.embedLink-1G1K1D[href*="://betterdocs." i],
-.containerCozy-jafyvG .markup-2BOw-j a[href*="://betterdocs." i],
-.embedLink-1G1K1D[href*="://discordsource." i],
-.containerCozy-jafyvG .markup-2BOw-j a[href*="://discordsource." i]{
-  background-color: transparent !important;
-}
+
 
 .embed-IeVjo6 a[href*="://betterdocs." i]:before,
 .embed-IeVjo6 a[href*="://discordsource." i]:before{
   color: var(--BetterDocsBlockerWhite);
   border: 2px solid var(--BetterDocsBlockerRed);
-  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) bottom right/100px no-repeat;
   box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
   padding: 10px;
   padding-right: 100px;
@@ -113,7 +101,6 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
   z-index: 2;
   padding: 10px;
   color: var(--BetterDocsBlockerWhite);
-  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) top/30% no-repeat;
   display: flex;
   text-align: justify;
   align-content: center;
@@ -125,7 +112,6 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
 .wrapper-35wsBm .icon-3o6xvg[style*="/icons/153708594091655168"]::after {
   content: 'BetterDocs/Discord Source are untrusted sources of themes and plugins\a The creator posts content\a without permission and it may have harmful plugins.\a Do not use BetterDocs/Discord Source.';
   color: var(--BetterDocsBlockerWhite);
-  background: var(--BetterDocsBlockerBlack1) var(--BetterDocsBlockerWarnLogo) left/auto 100% no-repeat;
   border: 2px solid var(--BetterDocsBlockerRed);
   box-shadow:0 0 12px var(--BetterDocsBlockerBlack2), 0 0 12px var(--BetterDocsBlockerRed);
   padding: 10px 7px 10px 100px;
@@ -158,6 +144,3 @@ html > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2r
   letter-spacing: 0;
 }
 
-#app-mount .guildIcon-VlWW86[style*='/icons/153708594091655168'] {
-  background-image: var(--BetterDocsBlockerWarnLogo3) !important;
-}
